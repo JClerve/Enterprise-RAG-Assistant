@@ -29,6 +29,7 @@ A full-stack web application that transforms PDFs and YouTube videos into intera
   - FAISS vector database for similarity search
   - CLIP embeddings for text and image understanding
   - Semantic chunking and retrieval
+  - 
 
 ### Quiz Features
 - **Customizable Configuration**:
@@ -307,6 +308,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** for beautiful, responsive design
 - **React** ecosystem for modern frontend development
 - **FastAPI** for robust API development
-- **FAISS** for efficient vector similarity search#   E n t e r p r i s e - R A G - A s s i s t a n t  
- #   E n t e r p r i s e - R A G - A s s i s t a n t  
+- **FAISS** for efficient vector similarity search#   E n t e r p r i s e - R A G - A s s i s t a n t 
+ 
+ #   E n t e r p r i s e - R A G - A s s i s t a n t 
+ 
  
